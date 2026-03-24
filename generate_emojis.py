@@ -63,11 +63,13 @@ if __name__ == "__main__":
         "📁", # file/file cabinet
         "🌃", # city at night
         "🎅", # santa hat
-        "🙂", # smiley face
+        "☀️", # sunshine
         "🅰️", # letter A (often problematic with variation selectors)
         "🎤", # microphone
         "🚜", # tractor
         "🔁", # replay
-        "🍾"  # bottle
+        "🍾", # bottle
+        "💤", # sleeping (zzz)
+        "📼"  # cassette tape
     ]
     generate_emoji_images(emoji_list)
